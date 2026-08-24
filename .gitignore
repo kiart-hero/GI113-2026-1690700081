@@ -1,0 +1,26 @@
+# ===== .NET / Visual Studio =====
+bin/
+obj/
+*.user
+*.suo
+.vs/
+[Dd]ebug/
+[Rr]elease/
+*.pdb
+
+# ===== Unity (เผื่อใช้ในเลบหลังๆ ของคอร์สนี้) =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+*.unitypackage
+*.apk
+*.aab
+
+# ===== OS junk =====
+.DS_Store
+Thumbs.db

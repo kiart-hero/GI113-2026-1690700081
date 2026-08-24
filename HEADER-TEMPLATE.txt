@@ -1,0 +1,7 @@
+/*
+ * Student ID :
+ * Name       :
+ * Section    :
+ * No.        :
+ * Course     : GI113 Computer Programming (GI)
+ */
